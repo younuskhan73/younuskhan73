@@ -63,12 +63,10 @@
 
 ### &nbsp;  - **Tableau Public**: https://public.tableau.com/app/profile/patan.younuskhan/vizzes
           
-
-\&nbsp; <!-- GitHub -->
+<!-- GitHub -->
 
 ### 
-
-### \&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\&logo=github" />
+ <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\&logo=github" />
 
 
 ### &nbsp;  - **GitHub**: https://github.com/younuskhan73
