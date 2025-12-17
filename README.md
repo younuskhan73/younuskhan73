@@ -54,7 +54,7 @@
 
 ### 
 
-### &nbsp; 🔗 **LinkedIn**:- (https://www.linkedin.com/in/patan-younus-khan?lipi=urn%3Ali%3Apage%3Ad\\\_flagship3\\\_profile\\\_view\\\_base\\\_contact\\\_details%3Bex15GN81Sq6jM9IqKSj5fg%3D%3D)  
+### &nbsp; 🔗 **LinkedIn**:- https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B2x43cIPrS0yVXNBYv2slAw%3D%3D  
 
 ### 
 
