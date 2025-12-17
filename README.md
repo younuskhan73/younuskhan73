@@ -6,7 +6,7 @@
 
 ### &nbsp;  I focus on transforming raw data into actionable business insights through
 
-### &nbsp;  interactive dashboards and data analysis. and Expert in Data-Driven Decision-Making skill
+### &nbsp;  interactive dashboards and data analysis with expertise in data-driven decision-making.
 
 ### 
 
