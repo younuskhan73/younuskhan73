@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 ### Profile Summary
+=======
+##Profile Summary
+>>>>>>> f8481d9598e04629ace0b660f79cd29a84420515
 
 I am a Data Analyst with hands-on experience in Python, Power BI, Tableau, SQL, DAX, and Excel, specializing in AI-driven analytics and business intelligence. I focus on transforming raw data into meaningful insights through data modeling, ETL processes, KPI analysis, and interactive dashboards that support data-driven decision-making.
 
 My work includes end-to-end data analysis projects covering customer behavior analysis, business performance monitoring, and industry analytics, along with academic research in deep learning and image classification. I am passionate about automation, data storytelling, and applying AI techniques to enhance analytical workflows.
 
+<<<<<<< HEAD
 ### Technical Skills
+=======
+##Technical Skills
+>>>>>>> f8481d9598e04629ace0b660f79cd29a84420515
 
 Data Analysis: Data Cleaning, ETL, KPI Development, Forecasting, Trend Analysis
 
