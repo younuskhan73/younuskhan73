@@ -1,4 +1,4 @@
-
+### DATA ANALYST | POWER BI | PYTHON | SQL | AI-DRIVEN ANALYTICS
 ### Profile Summary
 
 I am a Data Analyst with hands-on experience in Python, Power BI, Tableau, SQL, DAX, and Excel, specializing in AI-driven analytics and business intelligence. I focus on transforming raw data into meaningful insights through data modeling, ETL processes, KPI analysis, and interactive dashboards that support data-driven decision-making.
