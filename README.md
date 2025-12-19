@@ -41,7 +41,7 @@ B.Sc. in Artificial Intelligence and Machine Learning
 
 ### 
 
-### &nbsp; 🔗 **LinkedIn**:- https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship   _profile_self_edit_contact-info%3B2x43cIPrS0yVXNBYv2slAw%3D%3D  
+### &nbsp; 🔗 **LinkedIn**:- https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Be2%2BaEfcbQ6GueiWKVaXbjA%3D%3D 
 
 ### 
 
