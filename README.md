@@ -1,54 +1,41 @@
-### &nbsp;  Hi, I'm **Patan Younus Khan** 
+Profile Summary
 
-### 
+I am a Data Analyst with hands-on experience in Python, Power BI, Tableau, SQL, DAX, and Excel, specializing in AI-driven analytics and business intelligence. I focus on transforming raw data into meaningful insights through data modeling, ETL processes, KPI analysis, and interactive dashboards that support data-driven decision-making.
 
-### 🎯 Data Analyst specializing in **Power BI, Tableau, SQL, and Python** 
+My work includes end-to-end data analysis projects covering customer behavior analysis, business performance monitoring, and industry analytics, along with academic research in deep learning and image classification. I am passionate about automation, data storytelling, and applying AI techniques to enhance analytical workflows.
 
-### &nbsp;  I focus on transforming raw data into actionable business insights through
+Technical Skills
 
-### &nbsp;  interactive dashboards and data analysis with expertise in data-driven decision-making.
+Data Analysis: Data Cleaning, ETL, KPI Development, Forecasting, Trend Analysis
 
-### 
+BI & Visualization: Power BI, Tableau
 
-### 
+Programming: Python, SQL
 
-### 
+Microsoft Tools: Advanced Excel, Power Query, DAX
 
-### 🛠 **Expert Skills \& Tools:-**
+AI & Advanced Analytics: AI-assisted analytics, machine learning fundamentals, CNN-based image classification
 
+Featured Projects
 
+Customer Churn Analysis
+End-to-end analysis using Python, SQL, and Power BI to identify churn drivers and visualize key customer metrics.
 
-### &nbsp;  - **Power BI** – DAX, Data Modelling, KPI Dashboards
+Industry Analytics Dashboards
+Interactive Tableau dashboards designed to track sales and operational performance with drill-downs and filters.
 
-### &nbsp;  - **Tableau** – Interactive Visualizations, Storytelling
+AI Research Project
+Academic thesis applying convolutional neural networks and machine learning techniques for medical image recognition and classification.
 
-### &nbsp;  - **SQL** – Joins, CTEs, Window Functions
+Background
 
-### &nbsp;  - **Python** – Pandas, NumPy, Matplotlib, Seaborn
+Data Analyst Intern – Codegnan IT Solutions
 
-### &nbsp;  - **Excel** – Advanced formulas, Pivot Tables
+Certified Data Analyst – TechTip24 Corporate Training Institute
 
-### 
+B.Sc. in Artificial Intelligence and Machine Learning
 
-### 
-
-### 📊 **Featured Projects:-**
-
-
-
-### 🔹 **Customer Churn Analysis** (Power BI, Python, SQL)  
-
-### 🔹 **HR Analytics Dashboard** (Tableau)  
-
-### 🔹 **Hospital Analytics – AIIMS Dataset** (Power BI)  
-
-### 
-
-### 👉 Check pinned repositories below for full project details 👇
-
-### 
-
-### 
+Contact
 
 ### 🔗 **Connect With Me**
 
