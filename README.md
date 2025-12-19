@@ -24,18 +24,18 @@ Microsoft Tools: Advanced Excel, Power Query, DAX
 
 AI & Advanced Analytics: AI-assisted analytics, machine learning fundamentals, CNN-based image classification
 
-Featured Projects
+###Featured Projects
 
-Customer Churn Analysis
+##Customer Churn Analysis
 End-to-end analysis using Python, SQL, and Power BI to identify churn drivers and visualize key customer metrics.
 
-Industry Analytics Dashboards
+##Industry Analytics Dashboards
 Interactive Tableau dashboards designed to track sales and operational performance with drill-downs and filters.
 
-AI Research Project
+##AI Research Project
 Academic thesis applying convolutional neural networks and machine learning techniques for medical image recognition and classification.
 
-Background
+###Background
 
 Data Analyst Intern – Codegnan IT Solutions
 
@@ -43,7 +43,7 @@ Certified Data Analyst – TechTip24 Corporate Training Institute
 
 B.Sc. in Artificial Intelligence and Machine Learning
 
-Contact
+###Contact
 
 ### 🔗 **Connect With Me**
 
